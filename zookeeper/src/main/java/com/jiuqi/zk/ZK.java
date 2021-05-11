@@ -1,7 +1,7 @@
 package main.java.com.jiuqi.zk;
 
-public class TsetDemo {
+public class ZK {
     public static void main(String[] args) {
-        System.out.println("hello ZooKeeper!!!");
+
     }
 }
