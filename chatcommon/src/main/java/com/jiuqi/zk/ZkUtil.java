@@ -1,3 +1,5 @@
+package com.jiuqi.zk;
+
 public class ZkUtil {
     @Override
     public boolean equals(Object o) {
